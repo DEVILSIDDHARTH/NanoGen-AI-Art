@@ -1,0 +1,5 @@
+{
+  "name": "NanoGen AI Art",
+  "description": "A high-speed AI image generator using the Gemini Nano Banana (Flash Image) model. Create stunning visuals in various artistic styles instantly.",
+  "requestFramePermissions": []
+}
